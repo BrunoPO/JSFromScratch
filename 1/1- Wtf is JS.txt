@@ -1,0 +1,12 @@
+JS é ...
+
+Primeiras JS engines
+- spiderMonkey (mozilla)
+- v8(GMaps)
+
+ECMAScript:
+https://en.wikipedia.org/wiki/ECMAScript
+
+SingleThread
+
+JS é interpretada
