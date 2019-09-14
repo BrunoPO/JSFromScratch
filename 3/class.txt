@@ -1,7 +1,13 @@
 "use strict";
+
 debugger
+
 console.table({teste:""})
+
 JSON.Stringify
+
 quokka
+
 linter (prettier)
+
 baby steps

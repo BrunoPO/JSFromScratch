@@ -17,6 +17,13 @@ var functionVar = function(){
     return "teste";
 }
 
+if(true){
+   console.log(true);
+}
+
+if(true)
+   console.log(true);
+
 for(var i = 1; i<=10; i++){
     console.log(i+ "° vez");
 }
